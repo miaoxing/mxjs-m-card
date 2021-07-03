@@ -1,13 +1,13 @@
 .mx-card {
-  margin-bottom: .5rem;
+  margin-bottom: var(--mx-space-2);
   background: #fff;
 
   // TODO 圆角，间距
-  //margin: .5rem;
-  //border-radius: .5rem;
+  //margin: var(--mx-space-2);
+  //border-radius: var(--mx-space-2);
   //overflow: hidden;
 
   &-body {
-    padding: .75rem;
+    padding: var(--mx-space-3);
   }
 }
