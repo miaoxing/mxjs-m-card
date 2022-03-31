@@ -1,3 +1,10 @@
+## [0.1.4](https://github.com/miaoxing/mxjs-m-card/compare/v0.1.3...v0.1.4) (2022-03-31)
+
+
+### Features
+
+* 更新 `fower` 到 `^1.70.0` ([b44f316](https://github.com/miaoxing/mxjs-m-card/commit/b44f31626a320c32eea475f191f176345b05edcb))
+
 ## [0.1.3](https://github.com/miaoxing/mxjs-m-card/compare/v0.1.2...v0.1.3) (2022-02-05)
 
 
