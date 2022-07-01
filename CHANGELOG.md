@@ -1,3 +1,18 @@
+# [1.0.0](https://github.com/miaoxing/mxjs-m-card/compare/v0.1.5...v1.0.0) (2022-07-01)
+
+
+### Features
+
+* 发布 1.0.0 [release 1.0.0] ([7ac0ad8](https://github.com/miaoxing/mxjs-m-card/commit/7ac0ad827d23931a220d2400bf0364b26e513405))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.1.5](https://github.com/miaoxing/mxjs-m-card/compare/v0.1.4...v0.1.5) (2022-06-01)
 
 
