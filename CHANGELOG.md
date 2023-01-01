@@ -1,3 +1,18 @@
+# [1.1.0](https://github.com/miaoxing/mxjs-m-card/compare/v1.0.1...v1.1.0) (2023-01-01)
+
+
+### Features
+
+* 更新 `fower` 到 `~1.75.0` ([da67806](https://github.com/miaoxing/mxjs-m-card/commit/da67806ed0b56055d2e696a8593e9bee254a8c7e))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.3` to `8.2.0`
+
 ## [1.0.1](https://github.com/miaoxing/mxjs-m-card/compare/v1.0.0...v1.0.1) (2022-08-02)
 
 
