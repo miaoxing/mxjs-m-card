@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/miaoxing/mxjs-m-card/compare/v1.1.6...v1.2.0) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([872eb29](https://github.com/miaoxing/mxjs-m-card/commit/872eb29e5073b17aaa0430da3b0340c4cef986f5))
+
 ## [1.1.6](https://github.com/miaoxing/mxjs-m-card/compare/v1.1.5...v1.1.6) (2024-01-08)
 
 
